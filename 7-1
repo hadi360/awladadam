@@ -3,11 +3,11 @@
 #EXT-X-TARGETDURATION:5
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:5.000000,
-https://slave1.newcrystaldesign.com/hls/92e0cefaacb456e85b1c21cd95e14ebc/92e0cefaacb456e85b1c21cd95e14ebc-0.png
+https://slave1.newcrystaldesign.com/hls/92e0cefaacb456e85b1c21cd95e14ebc/92e0cefaacb456e85b1c21cd95e14ebc-0.png?msKey=m1
 #EXTINF:5.000000,
-https://slave1.newcrystaldesign.com/hls/92e0cefaacb456e85b1c21cd95e14ebc/92e0cefaacb456e85b1c21cd95e14ebc-1.png
+https://slave1.newcrystaldesign.com/hls/92e0cefaacb456e85b1c21cd95e14ebc/92e0cefaacb456e85b1c21cd95e14ebc-1.png?msKey=m1
 #EXTINF:5.000000,
-https://slave1.newcrystaldesign.com/hls/92e0cefaacb456e85b1c21cd95e14ebc/92e0cefaacb456e85b1c21cd95e14ebc-2.png
+https://slave1.newcrystaldesign.com/hls/92e0cefaacb456e85b1c21cd95e14ebc/92e0cefaacb456e85b1c21cd95e14ebc-2.png?msKey=m1
 #EXTINF:5.000000,
 https://slave1.newcrystaldesign.com/hls/92e0cefaacb456e85b1c21cd95e14ebc/92e0cefaacb456e85b1c21cd95e14ebc-3.png?msKey=m1
 #EXTINF:5.000000,
